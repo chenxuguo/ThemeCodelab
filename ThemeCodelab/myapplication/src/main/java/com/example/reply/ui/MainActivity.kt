@@ -10,7 +10,6 @@ import com.example.reply.ui.ReplyApp
 import com.example.reply.ui.ReplyHomeUIState
 import com.example.reply.ui.theme.AppTheme
 
-
 class MainActivity {
     private val viewModel: ReplyHomeViewModel by viewModels()
     setContent {
